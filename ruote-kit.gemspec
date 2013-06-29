@@ -27,7 +27,7 @@ ruote workflow engine, wrapped in a loving rack embrace
   s.add_runtime_dependency 'sinatra', '>= 1.2.0'
   s.add_runtime_dependency 'sinatra-respond_to', '>= 0.8.0'
 
-  s.add_runtime_dependency 'haml', '>= 3.1.4'
+  s.add_runtime_dependency 'haml', '>= 4.0.0'
 
   s.add_runtime_dependency 'rufus-json', '>= 0.2.5'
   #s.add_runtime_dependency('ruote', s.version) unless defined?(Bundler)
